@@ -1,1 +1,1 @@
-# recipe-app-api
+# Django restapi base setup
